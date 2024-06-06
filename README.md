@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Pejoal
+- 👋 Hi, I’m @Pejoal - Full Stack Web Developer
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me [click Here](https://pejoal.000webhostapp.com/)
 
