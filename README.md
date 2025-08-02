@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Pejoal - Full Stack Web Developer
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m @Pejoal - Full Stack Developer
+- 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me [click Here](mailto:pejoal.official@gmail.com)
 
