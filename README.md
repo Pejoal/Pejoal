@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pejoal - Full Stack Developer
 - 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me [click Here](mailto:pejoal.official@gmail.com)
+- 📫 How to reach me [click Here](mailto:business@pejoal.dpdns.org)
 
 <!---
 Pejoal/Pejoal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
