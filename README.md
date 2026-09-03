@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Pejoal+Hanna!+👋;Seasoned+Full-Stack+Developer...;40%2B+Apps+Published+%7C+200K%2B+Downloads!🚀&center=true&size=30&width=600&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Pejoal+Dev+Studio!+👋;Full-Stack+Developer+%26+Mobile+App+Engineer;49%2B+Apps+Published+%7C+350K%2B+Downloads!🚀&center=true&size=30&width=700&height=50">
   </a>
 </h1>
 
@@ -19,13 +19,13 @@
 
 ---
 
-### 💫 About Me
-I am a passionate, seasoned full-stack developer specializing in building cross-platform mobile applications and scalable web systems. With a strong track record of production-ready code, I have built and deployed a massive library of educational, utility, and gaming platforms featured across major app stores.
+### 💫 About Pejoal Dev Studio
+I am a passionate Full-Stack Developer and Mobile App Engineer driven by the intersection of sophisticated design and robust architecture. My core focus lies in architecting intuitive mobile ecosystems—particularly immersive educational platforms—while also engineering high-utility tools, scalable web dashboards, and AI integrations.
 
-- 🚀 **Proven Track Record:** 40+ Published Apps/Games on iOS and Android.
-- 📥 **Impact:** 200,000+ Downloads globally.
-- 🌍 **Polyglot Platforms:** Created specialized language learning solutions covering 8 global languages.
-- ⚡ **Focus:** Combining top-tier backend systems with fluid mobile and web UI/UX.
+- 🚀 **Proven Track Record:** 49+ Production Mobile & Web Apps.
+- 📥 **Impact:** 350K+ Total Downloads with a 4.6 Average Rating.
+- 🤖 **Innovation:** Integrating advanced AI models, continuous voice transcription, and domain-aware document generation.
+- ⚡ **Engineering Solutions:** From cross-platform mobile apps (offline capability, biometrics) to full-stack systems, store automation, and data pipelines.
 
 ---
 
@@ -33,42 +33,30 @@ I am a passionate, seasoned full-stack developer specializing in building cross-
 
 | Category | Technologies |
 | :--- | :--- |
-| **Mobile Development** | ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) |
+| **Mobile Development** | ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
 | **Frontend Web** | ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Svelte-4A4A4A?style=for-the-badge&logo=svelte&logoColor=FF3E00) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
 | **Backend & APIs** | ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |
-| **Databases & DevOps** | ![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
-
----
-
-### 📱 Deployed Ecosystem Showcase
-
-#### 📚 Language Learning Apps
-Comprehensive native applications built from fundamentals up to high-level mastery (A1-C2):
-- **German Suite:** *Master German, Learn German A1-C2, A1-A2 German Grammar, German for Nurses, Einbürgerungstest Trainer*
-- **Global Languages:** Comprehensive educational platforms tailored for **English, Spanish, French, Italian, Arabic, and Russian**.
-
-#### 🧠 Cognitive Assessments & Utilities
-- **Cortexa / IQ Genius / Brain Test:** Adaptive IQ tracking platforms and real-time cognitive evaluation models.
-- **Productivity Ecosystem:** Secure local architecture tools like *Password Manager Pro, QR Manager Pro,* and advanced *Video Player Pro*.
-
-#### 🎮 Interactive Gaming & Logic
-- Implemented core game state machines, geometric pathfinding, and sorting logic for applications like *Color Ring Puzzle, Connect 2048, Draw Single Path, and Stack Ball 3D*.
+| **Databases & DevOps** | ![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
 ---
 
 ### 💻 Featured Full-Stack Web Projects
 
+*   **AutoScribe AI Web Portal:** Online AI voice scribe & meeting note taker designed to transcribe audio into structured summaries across specialized workspaces.
 *   **Specialized ERP System:** Robust enterprise resource planning dashboard architecture engineered utilizing **Laravel, MariaDB, Vue 3**, and advanced state management.
-*   **E-Commerce Platform:** Fluid modern digital store solution featuring modular responsive layouts, secure multi-tier user authentication workflows, active cart tracking, and secure order orchestration.
-*   **Social Media Engine:** Real-time communication stack complete with instant chat connectivity, a secure friend graph networking setup, post feeds, and dynamic content interactions.
+*   **E-Commerce Engine:** Fluid modern digital store solution featuring modular responsive layouts, secure multi-tier user authentication workflows, active cart tracking, and secure order orchestration.
+*   **Automated Scheduling App:** A streamlined appointment coordination system designed specifically for educational institutions.
 
 ---
 
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pejoal&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="pejoal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pejoal&layout=compact&theme=chartreuse-dark&hide_border=true" alt="pejoal's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pejoal&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" alt="pejoal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pejoal&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" alt="pejoal's Top Languages" width="48%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pejoal&theme=chartreuse-dark&hide_border=true" alt="pejoal's GitHub Streak" width="100%" />
 </p>
 
 ---
