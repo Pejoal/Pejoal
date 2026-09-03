@@ -63,7 +63,7 @@ I am a passionate Full-Stack Developer and Mobile App Engineer driven by the int
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://pejoal.github.io" target="_blank">
+  <a href="https://pejoal.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio_Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/pejoal" target="_blank">
