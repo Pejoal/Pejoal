@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Pejoal+Dev+Studio!+👋;Full-Stack+Developer+%26+Mobile+App+Engineer;49%2B+Apps+Published+%7C+350K%2B+Downloads!🚀&center=true&size=30&width=700&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Pejoal+Dev+Studio!+👋;Full-Stack+Developer+%26+Mobile+App+Engineer;49%2B+Apps+Published+%7C+450K%2B+Downloads!🚀&center=true&size=30&width=700&height=50">
   </a>
 </h1>
 
@@ -12,7 +12,7 @@
   <a href="https://play.google.com/store/apps/dev?id=8062598971207894089" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
   </a>
-  <a href="https://apps.apple.com/developer/pejoal-hanna/id1848573493" target="_blank">
+  <a href="https://apps.apple.com/developer/nagy-solaiman/id6809016106" target="_blank">
     <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
   </a>
 </p>
@@ -23,7 +23,7 @@
 I am a passionate Full-Stack Developer and Mobile App Engineer driven by the intersection of sophisticated design and robust architecture. My core focus lies in architecting intuitive mobile ecosystems—particularly immersive educational platforms—while also engineering high-utility tools, scalable web dashboards, and AI integrations.
 
 - 🚀 **Proven Track Record:** 49+ Production Mobile & Web Apps.
-- 📥 **Impact:** 350K+ Total Downloads with a 4.6 Average Rating.
+- 📥 **Impact:** 450K+ Total Downloads with a 4.6 Average Rating.
 - 🤖 **Innovation:** Integrating advanced AI models, continuous voice transcription, and domain-aware document generation.
 - ⚡ **Engineering Solutions:** From cross-platform mobile apps (offline capability, biometrics) to full-stack systems, store automation, and data pipelines.
 
